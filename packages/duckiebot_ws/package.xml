@@ -1,0 +1,11 @@
+<package>
+  <name>duckiebot_ws</name>
+  <version>0.0.1</version>
+  <description>
+  Design project package.
+  </description>
+  <maintainer email="edayce@hotmail.com">edayuce</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

@@ -1,0 +1,36 @@
+nodes:
+  9:
+    x: 3.0
+    y: 0.0
+    neighbors: [10, 26]
+  
+  10:
+    x: 14.5
+    y: 3.0
+    neighbors: [9, 57, 26]  
+    
+  11:
+    x: 6.0
+    y: 0.0
+    neighbors: [32, 33]
+    
+  26:
+    x: 7.5
+    y: 7.5
+    neighbors: [9, 10]
+    
+  32:
+    x: 3.0
+    y: 7.5
+    neighbors: [11]
+
+  33:
+    x: 12.0
+    y: 6.0
+    neighbors: [11, 57]
+    
+  57:
+    x: 13.5
+    y: 0.0
+    neighbors: [10, 32]    
+
